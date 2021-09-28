@@ -1,1 +1,4 @@
-
+myappName: testconfig
+othersettings:
+  name: testname
+  key: testkey
